@@ -1,0 +1,15 @@
+G:\Институт\Projects C#\Demin_Anton_Task03\Demin_Anton_Task03\bin\Debug\Demin_Anton_Task03.exe.config
+G:\Институт\Projects C#\Demin_Anton_Task03\Demin_Anton_Task03\bin\Debug\Demin_Anton_Task03.exe
+G:\Институт\Projects C#\Demin_Anton_Task03\Demin_Anton_Task03\bin\Debug\Demin_Anton_Task03.pdb
+G:\Институт\Projects C#\Demin_Anton_Task03\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.csprojResolveAssemblyReference.cache
+G:\Институт\Projects C#\Demin_Anton_Task03\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.exe
+G:\Институт\Projects C#\Demin_Anton_Task03\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.pdb
+G:\Институт\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\bin\Debug\Demin_Anton_Task03.exe.config
+G:\Институт\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.exe
+G:\Институт\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.pdb
+C:\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\bin\Debug\Demin_Anton_Task03.exe.config
+C:\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.exe
+C:\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.pdb
+C:\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\bin\Debug\Demin_Anton_Task03.exe
+C:\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\bin\Debug\Demin_Anton_Task03.pdb
+C:\EPAM\Задание 3. Делегаты и события\Demin_Anton_Task03\obj\Debug\Demin_Anton_Task03.csprojResolveAssemblyReference.cache
